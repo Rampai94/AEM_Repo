@@ -2,5 +2,6 @@
 <workspaceFilter version="1.0">
     <filter root="/conf/AEMMaven13"/>
     <filter root="/content/AEMMaven13"/>
+    <filter root="/content/emoji-test"/>
     <filter root="/content/dam/AEMMaven13"/>
 </workspaceFilter>
